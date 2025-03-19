@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="rewind_10">Rewind 10 seconds</string>
+    <string name="forward_10">Forward 10 seconds</string>
+    <string name="ejemplo">ejemplo</string>
+    <string name="back_button">Back button</string>
+    <string name="image_tour">Image Tour</string>
+    <string name="splash_GIF">Splash GIF</string>
+    <string name="close">Close</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="arrow_right_small">arrow right small</string>
+    <string name="image_description">Image description</string>
+    <string name="arrow_for_collapsing">Arrow for collapsing the steps</string>
+    <string name="arrow_for_expanding">Arrow for expanding the steps</string>
+    <string name="expand_info">Expand info</string>
+    <string name="play_pause">Play/Pause button</string>
+
+</resources>
